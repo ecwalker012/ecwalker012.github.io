@@ -4,6 +4,6 @@
 
 layout: home
 ---
-Hi - I'm Liz. I'm a Ph.D. student in Literary & Cultural Studies at Carnegie Mellon University. I spent a few years working in the antiques and collectibles business.
+Hi - I'm Liz. I'm a Ph.D. student in Literary & Cultural Studies at Carnegie Mellon University.
 
-I'm originally from Philadelphia, PA
+Originally from Philadelphia, PA, I hold a B.A. from [Bucknell University](https://www.bucknell.edu/) and an M.A. in English from the [University of Virginia](https://english.as.virginia.edu/).
