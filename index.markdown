@@ -4,10 +4,8 @@
 
 layout: home
 ---
-Hi. <br>
+Hi. I'm Liz. <br>
 
-I'm Liz.
+I'm currently a Ph.D. student in the English department at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/).
 
 Originally from Philadelphia, PA, I hold a B.A. from [Bucknell University](https://www.bucknell.edu/) and an M.A. in English from the [University of Virginia](https://english.as.virginia.edu/). <br>
-
-I'm currently a Ph.D. student in Literary & Studies at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/).
