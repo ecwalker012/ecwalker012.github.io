@@ -3,5 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-I am a Ph.D. student in Literary and Cultural Studies at Carnegie Mellon University.
+My current research focuses situating diasporic Caribbean-American narratives within post-1945 multi-ethnic U.S. literature.
