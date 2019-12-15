@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Hi & welcome to my homepage. My name is Liz and I'm a second year Ph.D. student at Carnegie Mellon University
+Hi - I'm Liz. 
