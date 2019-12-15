@@ -4,4 +4,6 @@
 
 layout: home
 ---
-Hi - I'm Liz. 
+Hi - I'm Liz. I'm a Ph.D. student in Literary & Cultural Studies at Carnegie Mellon University. I spent a few years working in the antiques and collectibles business.
+
+I'm originally from Philadelphia, PA

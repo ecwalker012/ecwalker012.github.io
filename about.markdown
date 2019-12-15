@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi. My name is Elizabeth Walker. I am a phd student and love cats.
+I am a Ph.D. student in Literary and Cultural Studies at Carnegie Mellon University.
