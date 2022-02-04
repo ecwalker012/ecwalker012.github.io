@@ -6,7 +6,7 @@ layout: home
 ---
 Hi. I'm Liz.<br>
 
-I'm currently a Ph.D. student in the English department at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/).<br>
+I'm currently a Ph.D. candidate in the English department at [Carnegie Mellon University](https://www.cmu.edu/dietrich/english/).<br>
 
 I hold an M.A. in English from the [University of Virginia](https://english.as.virginia.edu/) and a B.A. from [Bucknell University](https://www.bucknell.edu/).<br>
 
